@@ -11,8 +11,4 @@ We’re looking to help the rest of those 96% of SMEs.
 
 We are an enthusiastic team and have raised a +$17mm seed in 2021 from investors behind companies like Wise (formerly TransferWise), Klarna, N26, Stash, Xero.
 
-We’re looking for a Sr. Backend Engineer to join our team at Bound. This is a great opportunity for anyone interested in joining an early stage startup, or for engineers who love working on greenfield projects. As one of the first 10 engineers on the team, you’ll have the chance to have a huge impact on the product, the engineering culture and the entire company as we grow!
-
-We're fully remote (within EU & UK), but have offices in London (with an office dog/vacuum cleaner named Brooklyn) and Sofia. Compensation is between 70,000 and 100,000 GBP plus equity.
-
 Learn more about why Bound was started  [here](https://medium.com/@dan_from_bound/death-taxes-and-losing-on-fx-2aea734c3b9d)!
