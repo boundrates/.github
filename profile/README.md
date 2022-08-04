@@ -12,3 +12,6 @@ We’re looking to help the rest of those 96% of SMEs.
 We are an enthusiastic team and have raised a +$17mm seed in 2021 from investors behind companies like Wise (formerly TransferWise), Klarna, N26, Stash, Xero.
 
 Learn more about why Bound was started  [here](https://medium.com/@dan_from_bound/death-taxes-and-losing-on-fx-2aea734c3b9d)!
+
+---
+<sup>Made with 💙 in Krakow, Kyiv, London, Malaga, Manchester, Sofia, Vilnius and Warsaw!</sup>
