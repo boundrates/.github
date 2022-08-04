@@ -1,3 +1,5 @@
+[![](https://i.imgur.com/AX6lLTx.png)](https://bound.co)
+
 # Hi there, we're Bound 👋
 
 ### We're hiring!
