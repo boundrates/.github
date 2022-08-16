@@ -6,6 +6,7 @@
 | **Role**                                                                                                                                                       	| Location                     	|
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------	|------------------------------	|
 | **[Sr. Backend Engineer](https://jobs.lever.co/bound/e25ad3c3-cb7e-4775-917a-c1b25f43f03f?lever-origin=applied&lever-source%5B%5D=GitHub%20Public%20Readme)**  	| *Remote (EU), London, Sofia* 	|
+| **[Backend Engineer](https://jobs.lever.co/bound/67dbf371-e93b-41d0-b379-23b1773e173b?lever-origin=applied&lever-source%5B%5D=Github%20ReadMe)**  	| *Remote (EU), London, Sofia* 	|
 | **[Sr. Frontend Engineer](https://jobs.lever.co/bound/bc854aa1-f95f-4cfe-a26d-9c47c69e8ccb?lever-origin=applied&lever-source%5B%5D=Github%20Public%20Readme)** 	| *Remote (EU), London, Sofia* 	|
 | **[Sr. Product Designer](https://jobs.lever.co/bound/09961e5a-ec53-4635-aa23-91f8d4ef9c72?lever-origin=applied&lever-source%5B%5D=GitHub%20Public%20Readme)**  	| *Remote (EU), London, Sofia* 	|
 
