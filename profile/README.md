@@ -1,5 +1,5 @@
 
-<img src="https://github.com/boundrates/.github/assets/26625/a59e7a6e-7903-4fa5-b917-ed22ad3e125d" width="200"/>
+<img src="https://github.com/boundrates/.github/assets/26625/a59e7a6e-7903-4fa5-b917-ed22ad3e125d" alt="Bound logo" width="200"/>
 
 
 # Hi there, we're Bound 👋
