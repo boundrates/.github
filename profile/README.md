@@ -1,4 +1,6 @@
-[![](https://i.imgur.com/AX6lLTx.png)](https://bound.co)
+
+<img src="https://github.com/boundrates/.github/assets/26625/a59e7a6e-7903-4fa5-b917-ed22ad3e125d)e" width="200"/>
+
 
 # Hi there, we're Bound 👋
 
