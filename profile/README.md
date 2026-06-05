@@ -13,8 +13,5 @@ We are an enthusiastic team and have raised a +$17mm from investors behind compa
 
 Learn more about why Bound was started  [here](https://medium.com/@dan_from_bound/death-taxes-and-losing-on-fx-2aea734c3b9d)!
 
-### We're hiring
-* [Senior Software Engineer](https://jobs.lever.co/bound/7bd7f202-84e9-402e-b8e5-fa2c6949075a)
-
 ---
-<sup>Made with 💜 in Krakow, Kyiv, London, Malaga, Manchester, Sofia, Vilnius and Warsaw!</sup>
+<sup>Made with 💜 in Johannesburg, Krakow, Kyiv, London, Malaga, Manchester, Sofia, Vilnius and Warsaw!</sup>
